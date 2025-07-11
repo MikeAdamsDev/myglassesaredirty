@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Glasses Are Dirty 👓</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/myglassesaredirty/</link>
     <description>Recent content on My Glasses Are Dirty 👓</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/myglassesaredirty/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:1313/myglassesaredirty/about/</link>
       <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost:1313/myglassesaredirty/about/</guid>
       <description>&lt;p&gt;Welcome to &lt;strong&gt;My Glasses Are Dirty&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Untangling the messy reality of technology, people, and the systems that connect them. I explore APIs, documentation, developer experience, and how we can build clearer, more human software ecosystems — one conversation at a time.&lt;/p&gt;&#xA;&lt;p&gt;Whether you’re a fellow technical writer, an API designer, or simply someone wrestling with digital complexity, you’re in the right place. Dive in, challenge assumptions, and help me see things more clearly.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Api First vs Data First</title>
-      <link>http://localhost:1313/posts/api-first-vs-data-first/</link>
+      <link>http://localhost:1313/myglassesaredirty/posts/api-first-vs-data-first/</link>
       <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/api-first-vs-data-first/</guid>
+      <guid>http://localhost:1313/myglassesaredirty/posts/api-first-vs-data-first/</guid>
       <description>&lt;p&gt;&lt;em&gt;The Hidden Tension Between APIs and Data Models: A Case Study of Enumerations.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;In the world of modern system design, there’s a constant debate between API-first and data-first approaches. While each has merit, the real challenge comes from how these two worldviews intersect — or collide — during actual product evolution.&#xA;I recently encountered a perfect example that captures this tension: the humble &lt;code&gt;customer title&lt;/code&gt; field.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Journey Begins</title>
-      <link>http://localhost:1313/posts/the-journey-begins/</link>
+      <link>http://localhost:1313/myglassesaredirty/posts/the-journey-begins/</link>
       <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-journey-begins/</guid>
+      <guid>http://localhost:1313/myglassesaredirty/posts/the-journey-begins/</guid>
       <description>&lt;p&gt;&lt;em&gt;Why I’m starting a professional blog in 2025&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;So, the journey begins&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;In a world dominated by short-attention-span video reels, I still believe there’s a place for thoughtful, well-crafted writing on professional topics — as long as it stays short and relevant. I’m always generating ideas, making discoveries, and reflecting on my work, and it makes sense to share those learnings with the community. It’s also a valuable discipline to shape those thoughts into a coherent blog post.&lt;/p&gt;</description>
     </item>
   </channel>
