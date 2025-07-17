@@ -6,7 +6,7 @@
     <description>Recent content on My Glasses Are Dirty 👓</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.myglassesaredirty.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
@@ -14,6 +14,13 @@
       <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://www.myglassesaredirty.com/about/</guid>
       <description>&lt;p&gt;Welcome to &lt;strong&gt;My Glasses Are Dirty&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Untangling the messy reality of technology, people, and the systems that connect them. I explore APIs, documentation, developer experience, and how we can build clearer, more human software ecosystems — one conversation at a time.&lt;/p&gt;&#xA;&lt;p&gt;Whether you’re a fellow technical writer, an API designer, or simply someone wrestling with digital complexity, you’re in the right place. Dive in, challenge assumptions, and help me see things more clearly.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Technical Documentation Is the New Source Code</title>
+      <link>https://www.myglassesaredirty.com/posts/docs-is-the-new-code/</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.myglassesaredirty.com/posts/docs-is-the-new-code/</guid>
+      <description>&lt;p&gt;&lt;em&gt;How technical documentation has become a core asset — as central to the developer experience as the codebase itself.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;In an age of Large Language Models and executable specifications, technical documentation is no longer a second-class citizen. It is the interface, the architecture, and increasingly, the source code itself.&lt;/p&gt;&#xA;&lt;p&gt;This isn’t a metaphor. It’s a real shift — one that’s both technological and philosophical — and it describes the arc of my own career.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Api First vs Data First</title>
